@@ -1,5 +1,6 @@
+#1 데이터 베이스 수업
 ### https://github.com/Gudegi/Database-Theater
-  # 데이터 베이스 수업
+
 
 <!--
 **ji-hun-choi/ji-hun-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
