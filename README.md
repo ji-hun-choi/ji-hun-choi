@@ -1,4 +1,4 @@
-#1 데이터 베이스 수업
+# 데이터 베이스 수업
 ### https://github.com/Gudegi/Database-Theater
 
 
