@@ -4,6 +4,8 @@
 ### 졸업 작품
 #### https://github.com/Gudegi/Eritip
 
+### 데이터 베이스 응용 수업
+#### https://github.com/kms2698/diabetes-analysys_topgap
 <!--
 **ji-hun-choi/ji-hun-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
