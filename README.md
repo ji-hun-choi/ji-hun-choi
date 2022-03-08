@@ -6,6 +6,8 @@
 
 ### 데이터 베이스 응용 수업 (백엔드/sql)
 #### https://github.com/kms2698/diabetes-analysys_topgap
+
+# PlayData(엔코 아카데미) 학습시작! 22.3.14 (월) ~
 <!--
 **ji-hun-choi/ji-hun-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
