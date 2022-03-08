@@ -1,10 +1,10 @@
-### 데이터 베이스 수업
+### 데이터 베이스 수업 (빅데이터 전처리)
 #### https://github.com/Gudegi/Database-Theater
 
-### 졸업 작품
+### 졸업 작품 (쳇봇/프론트엔드)
 #### https://github.com/Gudegi/Eritip
 
-### 데이터 베이스 응용 수업
+### 데이터 베이스 응용 수업 (백엔드/sql)
 #### https://github.com/kms2698/diabetes-analysys_topgap
 <!--
 **ji-hun-choi/ji-hun-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
