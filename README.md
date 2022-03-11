@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
   development tools
 <br>
-  <img src="https://img.shields.io/badge/Pycharm-blue?logo=Pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pycharm-ultramarine?logo=Pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-blue?logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-darkgoldenrod?logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-gold?logo=googlecolab&logoColor=white"/>
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 <br>
   Web Development stack
 <br>
-  <img src="https://img.shields.io/badge/flask-red?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-red?logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-skyblue?logo=MySQL&logoColor=white"/>
 <br>
   <img src="https://img.shields.io/badge/Spring-green?logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-green?logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-sapgreen?logo=springboot&logoColor=white"/>
 </p>
 
 
