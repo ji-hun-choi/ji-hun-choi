@@ -43,7 +43,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring Boot-sapgreen?logo=springboot&logoColor=white"/>
 </p>
 
-
 # Hanyang University ERICA
 ## DataBase (Back-End/sql)
   Flask를 활용한 영화 예매 및 관리 페이지 제작.
