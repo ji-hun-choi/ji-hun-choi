@@ -43,17 +43,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring Boot-sapgreen?logo=springboot&logoColor=white"/>
 </p>
 
-# Hanyang University ERICA
-## DataBase (Back-End/sql)
-  Flask를 활용한 영화 예매 및 관리 페이지 제작.
- - https://github.com/Gudegi/Database-Theater
+# 1. Project List
+  ## DataBase (Back-End/sql)
+   - [Flask를 활용한 영화 예매 및 관리 페이지 제작.](https://github.com/Gudegi/Database-Theater)
 
-## Graduation Project (Chatbot/Front-End)
-  Flutter를 활용하여 안드로이드 챗봇을 제작.
- - https://github.com/Gudegi/Eritip
+  ## Graduation Project (Chatbot/Front-End)
+   - [Flutter를 활용하여 안드로이드 챗봇을 제작.](https://github.com/Gudegi/Eritip)
 
-## DataBase Application (Bigdata ML) 
-  국민건강 자료를 활용하여 데이터 전처리 및 
- - https://github.com/kms2698/diabetes-analysys_topgap
+  ## DataBase Application (Bigdata ML) 
+   - [국민건강 자료를 활용하여 데이터 전처리 및 ML 분석](https://github.com/kms2698/diabetes-analysys_topgap)
 
-# Code BootCamp 22.3.14
+# 2. Study List
+## Python 기초 및 데어터 정제
+  - [데이터 분석을 위한 파이썬 철저 입문](https://github.com/ji-hun-choi/PlayData/tree/main/iTStudy)
