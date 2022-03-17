@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # My Tech Stack
- - Techs that I've used at least once
+ - 한번이라도 사용해본 기술
 <p align="center">
   language
 <br>
