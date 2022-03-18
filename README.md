@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   DL & ML stack
 <br>
   <img src="https://img.shields.io/badge/Tensorflow-orange?logo=Tensorflow&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Numpy-blue?logo=Numpy&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Pandas-gray?logo=Pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytorch-red?logo=Pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sklearn-yellow?logo=Sklearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplot-redwine?logo=Matplot&logoColor=white"/>
