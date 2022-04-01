@@ -65,3 +65,5 @@ Here are some ideas to get you started:
 # 2. Study List
 ## Python 기초 및 데어터 정제
   - [데이터 분석을 위한 파이썬 철저 입문](https://github.com/ji-hun-choi/PlayData/tree/main/iTStudy)
+    - [Mini Project](https://github.com/ji-hun-choi/PlayData/blob/main/iTStudy/MiniProject_2조.ipynb)
+
