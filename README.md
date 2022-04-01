@@ -19,23 +19,29 @@ Here are some ideas to get you started:
 <br>
   <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-navy?logo=Java&logoColor=white"/>
-<br>
+<br> <br>
   development tools
 <br>
   <img src="https://img.shields.io/badge/Pycharm-ultramarine?logo=Pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-blue?logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-darkgoldenrod?logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-gold?logo=googlecolab&logoColor=white"/>
-<br>
+<br> <br>
   DL & ML stack
 <br>
   <img src="https://img.shields.io/badge/Tensorflow-orange?logo=Tensorflow&logoColor=white"/>
  <img src="https://img.shields.io/badge/Numpy-blue?logo=Numpy&logoColor=white"/>
  <img src="https://img.shields.io/badge/Pandas-gray?logo=Pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytorch-red?logo=Pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sklearn-yellow?logo=Sklearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplot-redwine?logo=Matplot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Pytorch-red?logo=Pytorch&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Sklearn-yellow?logo=Sklearn&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Matplot-redwine?logo=Matplot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Seaborn-peachblow?logo=Seaborn&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Plotly-navy?logo=Plotly&logoColor=white"/> 
 <br>
+ <img src="https://img.shields.io/badge/Reaquest-lime?logo=Reaquest&logoColor=white"/>
+ <img src="https://img.shields.io/badge/BeautifulSoup4-sandybrown?logo=BeautifulSoup4&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Selenium-magenta?logo=Selenium&logoColor=white"/> 
+<br> <br>
   Web Development stack
 <br>
   <img src="https://img.shields.io/badge/Flask-red?logo=flask&logoColor=white"/>
