@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Numpy-blue?logo=Numpy&logoColor=white"/>
  <img src="https://img.shields.io/badge/Pandas-gray?logo=Pandas&logoColor=white"/>
  <img src="https://img.shields.io/badge/Pytorch-red?logo=Pytorch&logoColor=white"/>
- <img src="https://img.shields.io/badge/Sklearn-yellow?logo=Sklearn&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Scikit_learn-yellow?logo=Scikitlearn&logoColor=white"/>
  <img src="https://img.shields.io/badge/Matplot-redwine?logo=Matplot&logoColor=white"/>
  <img src="https://img.shields.io/badge/Seaborn-peachblow?logo=Seaborn&logoColor=white"/>
  <img src="https://img.shields.io/badge/Plotly-navy?logo=Plotly&logoColor=white"/> 
