@@ -63,6 +63,16 @@ Here are some ideas to get you started:
 
   ## DataBase Application 02 (Bigdata ML) 
    - [Kaggle Santander Customer Satisfaction 데이터 분석](https://github.com/AIBootcamp19Team2/Santander)
+   
+  ## Final Project (CV, DL)
+   - [불법 유포 영상 AI 모니터링 서비스](https://github.com/tmdqja75/CleanData)
+     - [상세 설명 notion]() 미완성
 <br>
 
 
+# 2. PlayData
+  ## 파이썬 수업 링크
+  - [파이썬 강의 리스트](https://github.com/ji-hun-choi/PlayData) 비활성화
+    - Python, ML, DL, MySQL, OpenCV
+  ## 파이널 프로젝트
+  - 
