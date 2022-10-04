@@ -66,7 +66,8 @@ Here are some ideas to get you started:
    
   ## Final Project (CV, DL)
    - [불법 유포 영상 AI 모니터링 서비스](https://github.com/tmdqja75/CleanData)
-     - [상세 설명 notion]() 미완성
+     - [상세 설명 notion](https://boggy-patch-c54.notion.site/CatchV-81b8fc44d2654019b2ca827160bb8fab)
+     - 공개 sw 대회 본선 진출
 <br>
 
 
@@ -74,5 +75,3 @@ Here are some ideas to get you started:
   ## 파이썬 수업 링크
   - [파이썬 강의 리스트](https://github.com/ji-hun-choi/PlayData) 비활성화
     - Python, ML, DL, MySQL, OpenCV
-  ## 파이널 프로젝트
-  - 
